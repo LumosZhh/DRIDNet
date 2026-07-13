@@ -1,0 +1,4 @@
+*.mat filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text
+data/Houston2013/Houston2013_hsi.mat filter=lfs diff=lfs merge=lfs -text
